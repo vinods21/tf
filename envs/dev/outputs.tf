@@ -13,3 +13,4 @@ output "terraform_service_account_email" {
   description = "Terraform service account used in this environment."
 }
 
+# Intentional no-op change to exercise the PR pipeline.
